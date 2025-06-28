@@ -9,7 +9,7 @@ Welcome to the API Fundamentals repository! This guide is designed to take you f
 Each module builds upon the previous one, so it's recommended to follow them in order.
 
 
-Module Structure and contents
+## Module Structure and contents
 
 
  [Module 1: Introduction to APIs](Module%201/README.md)
