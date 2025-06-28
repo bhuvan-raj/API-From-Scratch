@@ -1,7 +1,7 @@
 # API Fundamentals: A Comprehensive Guide
 
 
-<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/assets/api.png" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/assets/API.png" alt="Banner" />
 
 
 Welcome to the API Fundamentals repository! This guide is designed to take you from knowing nothing about APIs to understanding how they work, why they're used, and how to interact with them effectively.
