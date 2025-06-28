@@ -14,7 +14,14 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 
  [Module 1: Introduction to APIs](Module%201/README.md)
 
-- Module 1 lays the conceptual foundation of what APIs are and why they’re essential in today’s digital world. It avoids programming jargon and focuses on real-world analogies and everyday examples to make the concept of APIs accessible to everyone,
+- Module 1 lays the conceptual foundation of what APIs are and why they’re essential in today’s digital world. It avoids programming jargon and focuses on real-world analogies and everyday examples to make the concept of APIs accessible to everyone.
+
+
+ [Module 2: The Client-Server Model & Web Basics](Module%202/README.md)
+ 
+- This module introduces the core communication model behind APIs — the client-server architecture. You'll learn how clients (like browsers or apps) interact with servers by sending requests and receiving responses. It also covers essential web concepts like HTTP, URLs, and DNS, helping you understand how data flows across the internet. A hands-on browser-based activity is included to help visualize real API-like interactions.
+
+
 
 
 ### 🧠 What You'll Learn
