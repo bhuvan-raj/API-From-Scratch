@@ -103,9 +103,7 @@ A specific URL that represents a particular resource or function within the API.
 
 Parameters are additional pieces of information sent with a request to customize the response or specify details for an action.
 
----
-
-### 3.3.1 Query Parameters
+- Query Parameters
 
 - **Location:** Appended to the URL after a `?` (question mark).
 - **Format:** Key-value pairs separated by `&` (ampersand).
@@ -120,7 +118,7 @@ Parameters are additional pieces of information sent with a request to customize
 
 ---
 
-### 3.3.2 Path Parameters
+- Path Parameters
 
 - **Location:** Part of the URL path itself, typically enclosed in curly braces `{}` in documentation to denote a variable segment.
 - **Purpose:** Used to identify a specific resource or a specific entity within a collection.
@@ -131,7 +129,7 @@ Parameters are additional pieces of information sent with a request to customize
 
 ---
 
-## 3.4 Request Headers
+- Request Headers
 
 Headers are key-value pairs that provide metadata about the request or the client making the request. They are not part of the request body or URL.
 
@@ -146,7 +144,7 @@ Common request headers:
 
 ---
 
-## 3.5 Request Body (Payload)
+- Request Body (Payload) Parameters
 
 - **Purpose:** Carries the actual data that the client wants to send to the server.
 - **Usage:** Primarily used with POST, PUT, and PATCH requests, where you are creating or updating a resource.  
