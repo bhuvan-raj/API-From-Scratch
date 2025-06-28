@@ -12,7 +12,7 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 Module Structure and contents
 
 
-- [Module 1: Introduction to APIs](Module%201/README.md)
+ [Module 1: Introduction to APIs](Module%201/README.md)
 
 - Module 1 lays the conceptual foundation of what APIs are and why they’re essential in today’s digital world. It avoids programming jargon and focuses on real-world analogies and everyday examples to make the concept of APIs accessible to everyone,
 
