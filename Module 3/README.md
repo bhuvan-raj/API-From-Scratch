@@ -154,7 +154,7 @@ Common request headers:
 
   Example JSON Request Body for POST /users:
 
-  ```json
+```json
 {
   "firstName": "John",
   "lastName": "Doe",
@@ -162,4 +162,3 @@ Common request headers:
   "password": "securepassword123"
 }  
 ```
----
