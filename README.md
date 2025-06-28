@@ -22,7 +22,9 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 - Module 2 introduces the core communication model behind APIs — the client-server architecture. You'll learn how clients (like browsers or apps) interact with servers by sending requests and receiving responses. It also covers essential web concepts like HTTP, URLs, and DNS, helping you understand how data flows across the internet. A hands-on browser-based activity is included to help visualize real API-like interactions.
 
 
-
+ [Module 3: Anatomy of an API Request](Module%203/README.md)
+ 
+- Module 3 breaks down the structure of an API request, explaining each component in detail — from HTTP methods like GET, POST, PUT, PATCH, and DELETE, to URLs, endpoints, request headers, parameters, and body content. You'll understand how clients communicate with servers, how to format requests correctly, and what kind of information APIs expect and return. It's a crucial step before sending actual API calls using tools like Postman.
 
 
 ## 🧠 What You'll Learn
