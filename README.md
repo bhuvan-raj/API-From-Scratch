@@ -24,7 +24,6 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 
 
 
-### 🧠 What You'll Learn
 
 ## 🧠 What You'll Learn
 
