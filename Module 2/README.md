@@ -49,13 +49,13 @@ A server is a piece of hardware or software that **provides a service or data** 
 +--------------+                    +--------------+
 \|    Client    |                    |    Server    |
 +--------------+                    +--------------+
-\|                                    ^
-\| Request (e.g., "Give me user data")|
-\|------------------------------------>
-\|                                    |
-\| Response (e.g., "Here's user data")|
-|<------------------------------------
-v                                    |
+       \|                                    ^
+       \| Request (e.g., "Give me user data")|
+       \|------------------------------------>
+       \|                                    |
+       \| Response (e.g., "Here's user data")|
+       |<------------------------------------
+        v                                    |
 
 ```
 
