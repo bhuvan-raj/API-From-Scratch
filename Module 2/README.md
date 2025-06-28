@@ -7,6 +7,16 @@
 
 ## 2.1 The Client-Server Architecture
 
+
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%202/assets/api.gif" alt="Banner" />
+
+
+
+
+
+
+
 Most of the internet and API interactions operate on a **client-server model**. This is a distributed architecture where:
 
 ### 🔹 Client
