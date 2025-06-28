@@ -19,7 +19,7 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 
  [Module 2: The Client-Server Model & Web Basics](Module%202/README.md)
  
-- This module introduces the core communication model behind APIs — the client-server architecture. You'll learn how clients (like browsers or apps) interact with servers by sending requests and receiving responses. It also covers essential web concepts like HTTP, URLs, and DNS, helping you understand how data flows across the internet. A hands-on browser-based activity is included to help visualize real API-like interactions.
+- Module 2 introduces the core communication model behind APIs — the client-server architecture. You'll learn how clients (like browsers or apps) interact with servers by sending requests and receiving responses. It also covers essential web concepts like HTTP, URLs, and DNS, helping you understand how data flows across the internet. A hands-on browser-based activity is included to help visualize real API-like interactions.
 
 
 
