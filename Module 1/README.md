@@ -1,5 +1,26 @@
 # Module 1: Introduction to APIs (Conceptual Foundation)
 
+
+
+
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/assets/api.gif" alt="Banner" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Goal:** To establish a foundational understanding of what APIs are and their ubiquitous presence in the digital world.
 
 ---
