@@ -112,6 +112,10 @@ In the context of an **API (Application Programming Interface)**, the term **"in
 
 > The interface makes it possible to use a system **without knowing the internal code** or logic behind it.
 
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%201/assets/interface.png" alt="Banner" />
+
+
 An **interface** in API defines:
 
 - ✅ What functions or services are available (endpoints)
