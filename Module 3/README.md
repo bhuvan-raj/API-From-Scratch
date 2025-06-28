@@ -152,4 +152,14 @@ Common request headers:
 - **Format:** The format of the request body is specified by the `Content-Type` header.  
   The most common format for web APIs today is **JSON (JavaScript Object Notation)**.
 
+  Example JSON Request Body for POST /users:
+
+  ```json
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@example.com",
+  "password": "securepassword123"
+}  
+```
 ---
