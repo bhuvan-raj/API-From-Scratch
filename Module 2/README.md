@@ -9,7 +9,8 @@
 
 
 
-<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%202/assets/api.gif" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%202/assets/architecture.png" alt="Banner" />
+
 
 
 
@@ -39,6 +40,14 @@ A server is a piece of hardware or software that **provides a service or data** 
 ---
 
 ### 🔁 The Communication Flow
+
+
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%202/assets/api.gif" alt="Banner" />
+
+
+
+
 
 1. **Request:** The client initiates communication by sending a request to the server.
 2. **Processing:** The server receives the request, processes it (e.g., fetches data, computes a result).
