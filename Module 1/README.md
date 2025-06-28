@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/assets/api.gif" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%201/assets/api.gif" alt="Banner" />
 
 
 
