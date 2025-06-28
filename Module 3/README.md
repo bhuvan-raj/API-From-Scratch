@@ -2,6 +2,11 @@
 
 > **Goal:** To dissect the components that make up a typical HTTP API request.
 
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%203/assets/api.gif" alt="Banner" />
+
+
+
+
 An API request is a structured message sent from a client to a server. Understanding its components is crucial for making effective API calls.
 
 ---
