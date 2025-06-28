@@ -79,3 +79,35 @@ You interact with APIs constantly, often without realizing it!
 - **Travel Booking Sites:** When you search for flights or hotels on a site like MakeMyTrip or Goibibo, they are likely using APIs from various airlines and hotel chains to aggregate real-time availability and pricing information.
 
 - **Food Delivery Apps:** Swiggy or Zomato use APIs to communicate with restaurants (for menus and orders), delivery partners (for tracking), and payment gateways.
+
+
+# What is an Interface in an API?
+
+In the context of an **API (Application Programming Interface)**, the term **"interface"** refers to a well-defined way for two software components to **communicate and interact**. It acts as a **contract or boundary** between a client (like an app or frontend) and a service (like a backend or database).
+
+---
+
+## 🔹 What Does "Interface" Mean?
+
+> The interface makes it possible to use a system **without knowing the internal code** or logic behind it.
+
+An **interface** in API defines:
+
+- ✅ What functions or services are available (endpoints)
+- ✅ How to call them (HTTP methods like GET, POST)
+- ✅ What data to send (parameters or body format)
+- ✅ What data you’ll receive in return (response format)
+- ✅ What errors might occur (status codes or error messages)
+
+
+---
+
+## 🧠 Analogy: Vending Machine
+
+- You press a button (the interface)
+- The machine gives you a snack (the service)
+- You don’t need to know how it works internally — just what buttons are available and what you'll get
+
+Just like that, an API **interface** gives you a set of buttons (endpoints) that produce results (responses) without needing to know how the server works inside.
+
+
