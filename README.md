@@ -44,6 +44,11 @@ Postman is a popular API testing and collaboration tool that allows developers t
 
 Module 6 provides an introduction to API security by explaining the importance of authentication and authorization, clarifying the difference between the two, and exploring common methods like API keys, bearer tokens (OAuth 2.0), and basic authentication to ensure secure access to API resources.
 
+[Module 7: Different Types of APIs (Architectural Styles & Protocols) (Security Basics)](Module%207/README.md)
+
+Module 7 provides a comprehensive overview of the major API architectural styles—RPC, SOAP, REST, and GraphQL—explaining their principles, strengths, weaknesses, and ideal use cases to help developers choose the right approach for different application scenarios.
+
+
 ## 🧠 What You'll Learn
 
 - What APIs are and why they matter
