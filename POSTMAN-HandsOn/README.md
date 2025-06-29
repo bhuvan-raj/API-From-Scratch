@@ -1,11 +1,9 @@
-Here you go, Bubu — a detailed `README.md` with **Postman installation**, **hands-on exercises**, and **step-by-step instructions** for each exercise inside Postman:
 
----
-
-````markdown
 # 🚀 Postman: API Testing Tool
 
 Postman is a powerful API client that allows you to construct, send, and analyze HTTP requests and responses without writing code. It’s perfect for learning how APIs work and for testing endpoints.
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/POSTMAN-HandsOn/assets/postman.gif" alt="Banner" />
 
 ---
 
