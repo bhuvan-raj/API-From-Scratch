@@ -196,5 +196,3 @@ Value: application/json
 | DevTools | Inspecting live website requests   |
 
 
-```
-
