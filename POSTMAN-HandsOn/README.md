@@ -3,7 +3,7 @@
 
 Postman is a powerful API client that allows you to construct, send, and analyze HTTP requests and responses without writing code. It’s perfect for learning how APIs work and for testing endpoints.
 
-<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/POSTMAN-HandsOn/assets/postman.gif" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/POSTMAN-HandsOn/assets/postman.png" alt="Banner" />
 
 ---
 
@@ -18,7 +18,10 @@ Postman is a powerful API client that allows you to construct, send, and analyze
 
 ---
 
+
 ## 💻 Installing Postman
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/POSTMAN-HandsOn/assets/postman.gif" alt="Banner" />
 
 ### 🔹 Windows
 1. Visit [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
@@ -32,7 +35,7 @@ Postman is a powerful API client that allows you to construct, send, and analyze
    tar -xzf postman-linux-x64.tar.gz
    sudo mv Postman /opt/
    sudo ln -s /opt/Postman/Postman /usr/bin/postman
-````
+   ```
 
 3. Run Postman using `postman` command
 
@@ -156,7 +159,6 @@ Postman helps you visualize and test APIs without writing code. By using a simpl
 * Create and test request bodies
 * Analyze and debug responses
 
-Happy Learning! 🎓✨
 
 ```
 
