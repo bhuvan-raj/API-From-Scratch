@@ -27,7 +27,7 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 - Module 3 breaks down the structure of an API request, explaining each component in detail — from HTTP methods like GET, POST, PUT, PATCH, and DELETE, to URLs, endpoints, request headers, parameters, and body content. You'll understand how clients communicate with servers, how to format requests correctly, and what kind of information APIs expect and return. It's a crucial step before sending actual API calls using tools like Postman.
 
 
-[Module 4: Anatomy of an API Request](Module%204/README.md)
+[Module 4: Understanding API Responses](Module%204/README.md)
 
 - Module 4 explains how to understand and interpret API responses, including status codes, response formats like JSON, how to extract data from them, and the role of response headers.
 
