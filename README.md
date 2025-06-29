@@ -40,6 +40,10 @@ Module 5 helps to gain hands-on experience with APIs using real-world tools like
 
 Postman is a popular API testing and collaboration tool that allows developers to send HTTP requests, inspect responses, organize API workflows, and automate testing—making it an essential utility for efficient API development and debugging.
 
+[Module 6: Authentication & Authorization (Security Basics)](Module%206/README.md)
+
+Module 6 provides an introduction to API security by explaining the importance of authentication and authorization, clarifying the difference between the two, and exploring common methods like API keys, bearer tokens (OAuth 2.0), and basic authentication to ensure secure access to API resources.
+
 ## 🧠 What You'll Learn
 
 - What APIs are and why they matter
