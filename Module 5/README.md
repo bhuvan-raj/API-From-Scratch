@@ -45,6 +45,20 @@ Before interacting with an API, study its documentation. It’s your blueprint.
 - **Rate Limits:**  
   API usage limits within a given time frame
 
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%205/assets/api.gif" alt="Banner" />
+
+
+🔹 Official Documentation & Guide (JSONPlaceholder)
+
+📎 Link: https://jsonplaceholder.typicode.com/guide/
+This is the official, human-readable guide provided by JSONPlaceholder. It explains endpoints like /posts, /users, /comments, and how to make GET, POST, PUT, DELETE requests.
+
+🔹Swagger/OpenAPI Style Documentation
+
+📎 Link: https://arnu515.github.io/jsonplaceholder-api-docs/
+This is an unofficial, well-structured OpenAPI-based version of the JSONPlaceholder API documentation. 
+
 ---
 
 ## 5.2 Tools for API Interaction
