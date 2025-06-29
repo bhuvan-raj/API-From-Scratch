@@ -33,25 +33,25 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 
 [Module 5: Interacting with APIs (Tools & Practice)](Module%205/README.md)
 
-Module 5 helps to gain hands-on experience with APIs using real-world tools like Postman, Insomnia, and cURL—focusing on how to read API documentation, make requests, and interpret responses.
+- Module 5 helps to gain hands-on experience with APIs using real-world tools like Postman, Insomnia, and cURL—focusing on how to read API documentation, make requests, and interpret responses.
 
 
 [POSTMAN - Hands-ON)](POSTMAN-HandsOn/README.md)
 
-Postman is a popular API testing and collaboration tool that allows developers to send HTTP requests, inspect responses, organize API workflows, and automate testing—making it an essential utility for efficient API development and debugging.
+- Postman is a popular API testing and collaboration tool that allows developers to send HTTP requests, inspect responses, organize API workflows, and automate testing—making it an essential utility for efficient API development and debugging.
 
 [Module 6: Authentication & Authorization (Security Basics)](Module%206/README.md)
 
-Module 6 provides an introduction to API security by explaining the importance of authentication and authorization, clarifying the difference between the two, and exploring common methods like API keys, bearer tokens (OAuth 2.0), and basic authentication to ensure secure access to API resources.
+- Module 6 provides an introduction to API security by explaining the importance of authentication and authorization, clarifying the difference between the two, and exploring common methods like API keys, bearer tokens (OAuth 2.0), and basic authentication to ensure secure access to API resources.
 
 [Module 7: Different Types of APIs (Architectural Styles & Protocols) (Security Basics)](Module%207/README.md)
 
-Module 7 provides a comprehensive overview of the major API architectural styles—RPC, SOAP, REST, and GraphQL—explaining their principles, strengths, weaknesses, and ideal use cases to help developers choose the right approach for different application scenarios.
+- Module 7 provides a comprehensive overview of the major API architectural styles—RPC, SOAP, REST, and GraphQL—explaining their principles, strengths, weaknesses, and ideal use cases to help developers choose the right approach for different application scenarios.
 
 
 [Module 8: Hands-on experience in integrating and working with APIs using JavaScript and Python ](Module%208/README.md)
 
-Module 8 provides hands-on experience in integrating and working with APIs using JavaScript and Python, covering how to send GET and POST requests, handle JSON responses, implement error handling, and display data dynamically in web applications.
+- Module 8 provides hands-on experience in integrating and working with APIs using JavaScript and Python, covering how to send GET and POST requests, handle JSON responses, implement error handling, and display data dynamically in web applications.
 
 
 ## 🧠 What You'll Learn
