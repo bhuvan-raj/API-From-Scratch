@@ -3,7 +3,7 @@
 **Goal:**  
 Understand the importance of securing APIs and learn the fundamentals of authentication and authorization.
 
-<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%206/assets/api.png" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%206/assets/api.svg" alt="Banner" />
 
 
 ---
