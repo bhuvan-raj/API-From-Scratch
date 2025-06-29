@@ -31,8 +31,9 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 
 - Module 4 explains how to understand and interpret API responses, including status codes, response formats like JSON, how to extract data from them, and the role of response headers.
 
+[Module 5: Interacting with APIs (Tools & Practice)](Module%205/README.md)
 
-
+To gain hands-on experience with APIs using real-world tools like Postman, Insomnia, and cURL—focusing on how to read API documentation, make requests, and interpret responses.
 
 ## 🧠 What You'll Learn
 
