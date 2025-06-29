@@ -52,6 +52,13 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 [Module 8: Hands-on experience in integrating and working with APIs using JavaScript and Python ](Module%208/README.md)
 
 - Module 8 provides hands-on experience in integrating and working with APIs using JavaScript and Python, covering how to send GET and POST requests, handle JSON responses, implement error handling, and display data dynamically in web applications.
+  
+
+[Module 9: Advanced Concepts & Best Practices ](Module%209/README.md)
+
+
+- Module 9 covers advanced API concepts essential for real-world applications, including rate limiting, pagination, and webhooks. It reinforces RESTful principles, introduces key security best practices, and briefly explores GraphQL as an alternative to REST.
+
 
 
 ## 🧠 What You'll Learn
