@@ -220,4 +220,3 @@ Save as `index.html` and open in any browser.
 ---
 
 > This module gives you real coding experience in integrating APIs into your apps using two of the most widely used programming languages: JavaScript and Python.
-
