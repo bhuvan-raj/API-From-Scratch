@@ -49,6 +49,11 @@ Module 6 provides an introduction to API security by explaining the importance o
 Module 7 provides a comprehensive overview of the major API architectural styles—RPC, SOAP, REST, and GraphQL—explaining their principles, strengths, weaknesses, and ideal use cases to help developers choose the right approach for different application scenarios.
 
 
+[Module 8: Hands-on experience in integrating and working with APIs using JavaScript and Python ](Module%208/README.md)
+
+Module 8 provides hands-on experience in integrating and working with APIs using JavaScript and Python, covering how to send GET and POST requests, handle JSON responses, implement error handling, and display data dynamically in web applications.
+
+
 ## 🧠 What You'll Learn
 
 - What APIs are and why they matter
