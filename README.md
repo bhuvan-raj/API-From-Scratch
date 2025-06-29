@@ -33,7 +33,12 @@ Each module builds upon the previous one, so it's recommended to follow them in 
 
 [Module 5: Interacting with APIs (Tools & Practice)](Module%205/README.md)
 
-To gain hands-on experience with APIs using real-world tools like Postman, Insomnia, and cURL—focusing on how to read API documentation, make requests, and interpret responses.
+Module 5 helps to gain hands-on experience with APIs using real-world tools like Postman, Insomnia, and cURL—focusing on how to read API documentation, make requests, and interpret responses.
+
+
+[POSTMAN - Hands-ON)](POSTMAN-HandsOn/README.md)
+
+Postman is a popular API testing and collaboration tool that allows developers to send HTTP requests, inspect responses, organize API workflows, and automate testing—making it an essential utility for efficient API development and debugging.
 
 ## 🧠 What You'll Learn
 
