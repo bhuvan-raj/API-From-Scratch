@@ -12,6 +12,10 @@ Once a client sends a request, the server processes it and sends back a response
 
 HTTP status codes are three-digit numbers returned by the server in the response header. They tell the client the outcome of its request. They are grouped into five classes:
 
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%204/assets/api.png" alt="Banner" />
+
+
 ### 1xx - Informational
 
 The request was received and understood. (Less common in typical API interactions)
