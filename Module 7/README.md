@@ -2,6 +2,8 @@
 
 **Goal:** Understand the major architectural styles and protocols used for building APIs, their core characteristics, pros/cons, and typical use cases.
 
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%207/assets/architecture.png" alt="Banner" />
+
 ---
 
 ## 7.1 The Spectrum of API Types
@@ -56,6 +58,7 @@ Client calls remote server functions as if local. gRPC is a modern variant.
 ---
 
 ## 7.3 SOAP (Simple Object Access Protocol)
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%207/assets/soap.png" alt="Banner" />
 
 ### What It Is
 
@@ -90,6 +93,9 @@ A protocol for XML-based message exchange using WSDL contracts.
 ---
 
 ## 7.4 REST (Representational State Transfer)
+
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%207/assets/rest.png" alt="Banner" />
 
 ### What It Is
 
@@ -126,6 +132,12 @@ Architectural style using HTTP methods for resource management.
 ---
 
 ## 7.5 GraphQL
+
+
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%207/assets/graphql.png" alt="Banner" />
+
+
 
 ### What It Is
 
