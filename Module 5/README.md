@@ -1,9 +1,8 @@
-Here’s your content structured as a `README.md` file for **Module 5: Interacting with APIs (Tools & Practice)**:
 
----
-
-````markdown
 # Module 5: Interacting with APIs (Tools & Practice)
+
+
+<img src="https://github.com/bhuvan-raj/API-From-Scratch/blob/main/Module%205/assets/api.png" alt="Banner" />
 
 **Goal:** To gain hands-on experience making API requests and interpreting responses using popular tools.
 
@@ -46,8 +45,6 @@ Before interacting with an API, study its documentation. It’s your blueprint.
 - **Rate Limits:**  
   API usage limits within a given time frame
 
-> 💡 **Pro Tip:** Always read the documentation first!
-
 ---
 
 ## 5.2 Tools for API Interaction
@@ -61,14 +58,6 @@ Use the **Network tab** to inspect requests/responses made by websites. Best for
 ### 5.2.2 Postman – *Highly Recommended*
 
 A user-friendly and powerful API client.
-
-#### Key Features:
-- Intuitive GUI for HTTP requests
-- Support for environment variables
-- Organize requests using collections
-- View full request/response history
-- Pretty JSON/XML viewer
-- Basic testing and scripting support
 
 📥 **Download Postman:**  
 [https://www.postman.com/downloads](https://www.postman.com/downloads)
@@ -103,6 +92,7 @@ curl -X POST \
 ```
 
 ---
+
 
 ## 5.3 Making Your First API Calls (Hands-on Practice)
 
@@ -191,14 +181,6 @@ Value: application/json
 | cURL     | Terminal and scripting             |
 | DevTools | Inspecting live website requests   |
 
----
 
-Happy Testing! 🚀
-
-```
-
----
-
-Let me know if you want a downloadable `.md` file or want to convert this into a presentation, Bubu.
 ```
 
