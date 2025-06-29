@@ -215,3 +215,121 @@ All REST APIs are HTTP APIs, but not all HTTP APIs are RESTful.
 ---
 
 > Understanding these API types helps you choose the right architecture for your application or system.
+
+---
+
+
+## API Frameworks & Libraries
+
+API frameworks provide the tools and structure to build and expose APIs in various programming languages. Here are some of the most widely used:
+
+### 🔹 Python
+
+| Framework       | Type | Highlights                                         |
+| --------------- | ---- | -------------------------------------------------- |
+| **FastAPI**     | REST | Async, fast, modern; based on Starlette & Pydantic |
+| **Flask**       | REST | Lightweight, great for small apps and prototyping  |
+| **Django REST** | REST | Powerful extension to Django for building APIs     |
+
+---
+
+### 🔹 JavaScript / TypeScript
+
+| Framework      | Type                  | Highlights                                             |
+| -------------- | --------------------- | ------------------------------------------------------ |
+| **Express.js** | REST                  | Minimal and flexible, most popular for Node.js         |
+| **NestJS**     | REST / gRPC / GraphQL | Modular, TypeScript-first, supports multiple API types |
+
+---
+
+### 🔹 Java
+
+| Framework       | Type        | Highlights                                         |
+| --------------- | ----------- | -------------------------------------------------- |
+| **Spring Boot** | REST / SOAP | Enterprise-level, widely used in backend Java apps |
+
+---
+
+### 🔹 .NET / C\#
+
+| Framework           | Type        | Highlights                                   |
+| ------------------- | ----------- | -------------------------------------------- |
+| **ASP.NET Web API** | REST / SOAP | Rich tooling, fast, full Microsoft ecosystem |
+
+---
+
+### 🔹 GraphQL Specific
+
+| Tool / Framework  | Language      | Highlights                                  |
+| ----------------- | ------------- | ------------------------------------------- |
+| **Apollo Server** | JavaScript    | GraphQL server for Node.js                  |
+| **Hasura**        | SQL + GraphQL | Auto-generates GraphQL APIs from PostgreSQL |
+
+---
+
+### 🔹 gRPC (Cross-language)
+
+| Tool     | Language Support           | Highlights                                     |
+| -------- | -------------------------- | ---------------------------------------------- |
+| **gRPC** | Go, Java, Python, C++, etc | Based on Protobuf, high-performance, streaming |
+
+---
+
+##  API Styles & Standards
+
+Beyond frameworks, these **styles and specs** define how APIs are structured, consumed, or documented.
+
+### 🔸 OpenAPI (Swagger)
+
+* **Purpose:** API documentation & client code generation
+* **Description:** YAML/JSON specification for RESTful APIs
+* **Use:** Swagger UI, Postman import, SDK generation
+
+---
+
+### 🔸 JSON\:API
+
+* **Purpose:** Standardized JSON format for REST APIs
+* **Description:** Reduces custom formats, supports pagination, filtering, etc.
+* **Use:** Data-focused APIs, frontends with structured clients
+
+---
+
+### 🔸 OData (Open Data Protocol)
+
+* **Purpose:** Standard for querying REST APIs
+* **Description:** Supports filtering, sorting, pagination via URL
+* **Use:** Often in Microsoft ecosystems (e.g., Power BI, Dynamics)
+
+---
+
+### 🔸 HATEOAS (Hypermedia as the Engine of Application State)
+
+* **Purpose:** Advanced REST constraint
+* **Description:** Clients navigate API via hyperlinks provided in responses
+* **Use:** Fully RESTful APIs, hypermedia-driven UIs
+
+---
+
+### 🔸 Webhooks
+
+* **Purpose:** Event-driven callback mechanism
+* **Description:** API sends a request to your server when an event happens
+* **Use:** Stripe (payment events), GitHub (push events), CI/CD triggers
+
+---
+
+## 🔚 Summary Table
+
+| Category     | Tool/Style       | API Type    | Use Case                                   |
+| ------------ | ---------------- | ----------- | ------------------------------------------ |
+| Framework    | FastAPI, Express | REST        | Web/mobile APIs                            |
+| Framework    | Apollo, Hasura   | GraphQL     | Flexible frontends, dashboards             |
+| Framework    | gRPC             | RPC         | Microservices, real-time, high-speed comms |
+| Spec / Style | OpenAPI, Swagger | REST        | Documentation, SDK generation              |
+| Spec / Style | JSON\:API        | REST        | Standardized JSON API responses            |
+| Protocol     | OData            | REST        | Advanced querying, Microsoft stack         |
+| Style        | HATEOAS          | REST        | Hypermedia-driven navigation               |
+| Mechanism    | Webhooks         | Event-based | Notify on server events                    |
+
+
